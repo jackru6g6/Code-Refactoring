@@ -1,3 +1,5 @@
+/// 過大類別 (Large class) 
+
 public class 總經理 
 {
     public void 收錢(){}

@@ -1,3 +1,5 @@
+/// 過長函式 (Long method) 
+
 public static Main()
 {
     學生會 雄獅資訊會 = new 學生會();

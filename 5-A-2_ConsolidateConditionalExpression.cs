@@ -4,7 +4,7 @@ public int 計算付費金額(string 職位, string 折扣碼 = string.Empty, bo
 {
     var 就是i打折 = (職位 == "主任") || (折扣碼 == "我愛一條柴") || (是否為VIP == true);
 
-    if(就是i打折 == true)
+    if(就是i打折)
     {
         return 原價 * 0.8;
     }
